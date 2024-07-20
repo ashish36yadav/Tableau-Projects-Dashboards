@@ -18,6 +18,7 @@ The Netflix Dashboard is designed to display key metrics and trends related to N
 - `Netflix.png`: A screenshot of the main dashboard for quick reference.
 
 ## Screenshot
+Here is the link to the Dashboard to view it online: https://public.tableau.com/views/NetflixDashboard_17129452623380/Netflix?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 Below is a screenshot of the main dashboard:
 
